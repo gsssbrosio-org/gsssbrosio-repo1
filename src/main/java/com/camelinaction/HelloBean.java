@@ -4,6 +4,8 @@ import javax.inject.Singleton;
 
 import org.apache.camel.util.InetAddressUtil;
 
+// A comment that Rick added.
+
 /**
  * A bean that returns the hostname
  */
