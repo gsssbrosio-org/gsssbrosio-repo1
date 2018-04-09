@@ -13,7 +13,7 @@ import org.apache.camel.util.InetAddressUtil;
 public class HelloBean {
 
     public String sayHello() throws Exception {
-        return "Candace says hello from "
+        return "Candace and Luke say hello from "
                 + InetAddressUtil.getLocalHostName();
     }
 }
